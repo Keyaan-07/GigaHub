@@ -7,6 +7,11 @@ GigaHub is a USB 3.0 Hub capable of speeds upto 5Gbps. It comes in a small form 
 ![3d-back](/media/usb-hub-3d-back.png)
 ![schematic](/media/usb-hub-schematic.png)
 
+# How to Assemble
+To Assemble this PCB, first you need to be familiar with soldering. You take your bare PCB, apply solder paste on it(soldering iron and solder is not recommended because it involves pins under the surface, such as the USB-C receptacles). Then, you take a hotplate or a hot air gun and melt the solder appropriately. There are many tutorials online teaching it in a great way, go search there!
+
+The linked html file under /hardware/bom helps you with placement!
+
 # BOM
 |Designator                                                  |Function         |Value           |Footprint                                        |Quantity         |Price |Amount |Order|Note      |Link                                              |
 |------------------------------------------------------------|-----------------|----------------|-------------------------------------------------|-----------------|------|-------|-----|----------|--------------------------------------------------|
