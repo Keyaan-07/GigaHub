@@ -1,13 +1,17 @@
 # GigaHub
 GigaHub is a USB 3.0 Hub capable of speeds upto 5Gbps. It comes in a small form factor and can handle upto 4 devices simultaneously. The silkscreen on the bottom makes it obvious. You plug in the USB-C cable on one side, and you get 4x USB-C cables. 
 
+I made this project just for fun and because i had some free time. I could've made USB 2.0 hub but this was a bit challenging thus i made this!!
+
 ![zine magazine page](/media/GigaHub.png)
 ![PCB](/media/usb-hub.png)
 ![3d](/media/usb-hub-3d-nobg.png)
 ![3d-back](/media/usb-hub-3d-back.png)
 ![schematic](/media/usb-hub-schematic.png)
 
-# How to Assemble
+
+
+# How to build
 To Assemble this PCB, first you need to be familiar with soldering. You take your bare PCB, apply solder paste on it(soldering iron and solder is not recommended because it involves pins under the surface, such as the USB-C receptacles). Then, you take a hotplate or a hot air gun and melt the solder appropriately. There are many tutorials online teaching it in a great way, go search there!
 
 The linked html file under /hardware/bom helps you with placement!
