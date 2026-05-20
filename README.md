@@ -1,6 +1,7 @@
 # GigaHub
 GigaHub is a USB 3.0 Hub capable of speeds upto 5Gbps. It comes in a small form factor and can handle upto 4 devices simultaneously. The silkscreen on the bottom makes it obvious. You plug in the USB-C cable on one side, and you get 4x USB-C cables. 
 
+![zine magazine page](/media/GigaHub.png)
 ![PCB](/media/usb-hub.png)
 ![3d](/media/usb-hub-3d-nobg.png)
 ![3d-back](/media/usb-hub-3d-back.png)
