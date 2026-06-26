@@ -3,18 +3,20 @@ GigaHub is a USB 3.0 Hub capable of speeds upto 5Gbps. It comes in a small form 
 
 I made this project just for fun and because i had some free time. I could've made USB 2.0 hub but this was a bit challenging thus i made this!!
 
-![zine magazine page](/media/GigaHub.png)
-![PCB](/media/usb-hub.png)
-![3d](/media/usb-hub-3d-nobg.png)
-![3d-back](/media/usb-hub-3d-back.png)
-![assembly](/media/assembly.png)
-![assembly](/media/assembly-open.png)
-![schematic](/media/usb-hub-schematic.png)
+![zine magazine page](/media/GigaHub.png)  
+![PCB](/media/usb-hub.png)  
+![3d](/media/usb-hub-3d-nobg.png)  
+![3d-back](/media/usb-hub-3d-back.png)  
+![assembly](/media/assembly.png)  
+![assembly](/media/assembly-open.png)  
+![top case](/media/case-top.png)  
+![schematic](/media/usb-hub-schematic.png)  
 
-[Onshape link](https://cad.onshape.com/documents/e81256595efe5e6b347fe7a8/w/0dcc8df7d91fb49fe0a745b9/e/4c090b9e2a0ff4ca85e35435)
-[Kicanvas link](https://kicanvas.org/?github=https://github.com/Keyaan-07/GigaHub/tree/main/hardware)
+[Onshape link](https://cad.onshape.com/documents/e81256595efe5e6b347fe7a8/w/0dcc8df7d91fb49fe0a745b9/e/4c090b9e2a0ff4ca85e35435)  
+[Kicanvas link](https://kicanvas.org/?github=https://github.com/Keyaan-07/GigaHub/tree/main/hardware)  
 
 # How to build
+
 To Assemble this PCB, first you need to be familiar with soldering. You take your bare PCB, apply solder paste on it(soldering iron and solder is not recommended because it involves pins under the surface, such as the USB-C receptacles). Then, you take a hotplate or a hot air gun and melt the solder appropriately. There are many tutorials online teaching it in a great way, go search there!
 
 The linked html file under /hardware/bom helps you with placement!
@@ -39,4 +41,4 @@ The linked html file under /hardware/bom helps you with placement!
 |                                                            |                 |                |                                                 |Shipping fee JLC |      |7.72   |     |          |                                                  |
 |                                                            |                 |                |                                                 |Shipping fee LCSC|      |3.92   |     |          |                                                  |
 |                                                            |                 |                |                                                 |Handling Fee LCSC|      |3      |     |          |                                                  |
-|                                                            |                 |                |                                                 |Total            |      |26.3475|     |          |                                                  |
+|                                                            |                 |                |                                                 |Total            |      |35.7875|     |          |                                                  |
