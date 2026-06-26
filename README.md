@@ -7,9 +7,12 @@ I made this project just for fun and because i had some free time. I could've ma
 ![PCB](/media/usb-hub.png)
 ![3d](/media/usb-hub-3d-nobg.png)
 ![3d-back](/media/usb-hub-3d-back.png)
+![assembly](/media/assembly.png)
+![assembly](/media/assembly-open.png)
 ![schematic](/media/usb-hub-schematic.png)
 
-
+[Onshape link](https://cad.onshape.com/documents/e81256595efe5e6b347fe7a8/w/0dcc8df7d91fb49fe0a745b9/e/4c090b9e2a0ff4ca85e35435)
+[Kicanvas link](https://kicanvas.org/?github=https://github.com/Keyaan-07/GigaHub/tree/main/hardware)
 
 # How to build
 To Assemble this PCB, first you need to be familiar with soldering. You take your bare PCB, apply solder paste on it(soldering iron and solder is not recommended because it involves pins under the surface, such as the USB-C receptacles). Then, you take a hotplate or a hot air gun and melt the solder appropriately. There are many tutorials online teaching it in a great way, go search there!
@@ -30,6 +33,7 @@ The linked html file under /hardware/bom helps you with placement!
 |R7                                                          |Resistor         |1M              |402                                              |100              |0.0009|0.09   |Yes  |100 is MOQ|https://www.lcsc.com/product-detail/C138033.html  |
 |R8, R9                                                      |Resistor         |30k             |402                                              |100              |0.0007|0.07   |Yes  |100 is MOQ|https://www.lcsc.com/product-detail/C2909347.html |
 |U1                                                          |Hub Controller IC|TUSB8041        |QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias      |1                |4.83  |4.83   |Yes  |          |https://www.lcsc.com/product-detail/C544686.html  |
+|U4, U5, U7, U7, U8                                          |Multiplexer IC   |HD3SS3220       |QFN-30-1EP                                       |5                |1.89  |9.44   |Yes  |          |https://www.lcsc.com/product-detail/C165155.html  |
 |U2, U3                                                      |Power switch     |TPS2561         |VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias|2                |0.8   |1.6    |Yes  |          |https://www.lcsc.com/product-detail/C140303.html  |
 |Y1                                                          |Crystal          |24 MHz          |Crystal_SMD_3225-4Pin_3.2x2.5mm                  |10               |0.036 |0.36   |Yes  |10 is MOQ |https://www.lcsc.com/product-detail/C41383243.html|
 |                                                            |                 |                |                                                 |Shipping fee JLC |      |7.72   |     |          |                                                  |
