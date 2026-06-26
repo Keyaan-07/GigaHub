@@ -216,6 +216,7 @@
       ],
       "track_widths": [
         0.0,
+        0.15,
         0.5
       ],
       "tuning_pattern_settings": {
@@ -554,6 +555,162 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/0UFPTX1N": [
+        "USB"
+      ],
+      "/0UFPTX1P": [
+        "USB"
+      ],
+      "/0UFPTX2N": [
+        "USB"
+      ],
+      "/0UFPTX2P": [
+        "USB"
+      ],
+      "/1TX1N": [
+        "USB"
+      ],
+      "/1TX1P": [
+        "USB"
+      ],
+      "/1TX2N": [
+        "USB"
+      ],
+      "/1TX2P": [
+        "USB"
+      ],
+      "/2TX1N": [
+        "USB"
+      ],
+      "/2TX1P": [
+        "USB"
+      ],
+      "/2TX2N": [
+        "USB"
+      ],
+      "/2TX2P": [
+        "USB"
+      ],
+      "/3TX1N": [
+        "USB"
+      ],
+      "/3TX1P": [
+        "USB"
+      ],
+      "/3TX2N": [
+        "USB"
+      ],
+      "/3TX2P": [
+        "USB"
+      ],
+      "/4TX1N": [
+        "USB"
+      ],
+      "/4TX1P": [
+        "USB"
+      ],
+      "/4TX2N": [
+        "USB"
+      ],
+      "/4TX2P": [
+        "USB"
+      ],
+      "/DFP1RX1N": [
+        "USB"
+      ],
+      "/DFP1RX1P": [
+        "USB"
+      ],
+      "/DFP1RX2N": [
+        "USB"
+      ],
+      "/DFP1RX2P": [
+        "USB"
+      ],
+      "/DFP1TX1N": [
+        "USB"
+      ],
+      "/DFP1TX1P": [
+        "USB"
+      ],
+      "/DFP1TX2N": [
+        "USB"
+      ],
+      "/DFP1TX2P": [
+        "USB"
+      ],
+      "/DFP2RX1N": [
+        "USB"
+      ],
+      "/DFP2RX1P": [
+        "USB"
+      ],
+      "/DFP2RX2N": [
+        "USB"
+      ],
+      "/DFP2RX2P": [
+        "USB"
+      ],
+      "/DFP2TX1N": [
+        "USB"
+      ],
+      "/DFP2TX1P": [
+        "USB"
+      ],
+      "/DFP2TX2N": [
+        "USB"
+      ],
+      "/DFP2TX2P": [
+        "USB"
+      ],
+      "/DFP3RX1N": [
+        "USB"
+      ],
+      "/DFP3RX1P": [
+        "USB"
+      ],
+      "/DFP3RX2N": [
+        "USB"
+      ],
+      "/DFP3RX2P": [
+        "USB"
+      ],
+      "/DFP3TX1N": [
+        "USB"
+      ],
+      "/DFP3TX1P": [
+        "USB"
+      ],
+      "/DFP3TX2N": [
+        "USB"
+      ],
+      "/DFP3TX2P": [
+        "USB"
+      ],
+      "/DFP4RX1N": [
+        "USB"
+      ],
+      "/DFP4RX1P": [
+        "USB"
+      ],
+      "/DFP4RX2N": [
+        "USB"
+      ],
+      "/DFP4RX2P": [
+        "USB"
+      ],
+      "/DFP4TX1N": [
+        "USB"
+      ],
+      "/DFP4TX1P": [
+        "USB"
+      ],
+      "/DFP4TX2N": [
+        "USB"
+      ],
+      "/DFP4TX2P": [
+        "USB"
+      ],
       "/SSRX1N": [
         "USB"
       ],
@@ -576,6 +733,12 @@
         "USB"
       ],
       "/SSRX4P": [
+        "USB"
+      ],
+      "/SSRXUFPN": [
+        "USB"
+      ],
+      "/SSRXUFPP": [
         "USB"
       ],
       "/SSRXUPN": [
@@ -608,10 +771,40 @@
       "/SSTX4P": [
         "USB"
       ],
+      "/SSTXUFPN": [
+        "USB"
+      ],
+      "/SSTXUFPP": [
+        "USB"
+      ],
       "/SSTXUPN": [
         "USB"
       ],
       "/SSTXUPP": [
+        "USB"
+      ],
+      "/UFPRX1N": [
+        "USB"
+      ],
+      "/UFPRX1P": [
+        "USB"
+      ],
+      "/UFPRX2N": [
+        "USB"
+      ],
+      "/UFPRX2P": [
+        "USB"
+      ],
+      "/UFPTX1N": [
+        "USB"
+      ],
+      "/UFPTX1P": [
+        "USB"
+      ],
+      "/UFPTX2N": [
+        "USB"
+      ],
+      "/UFPTX2P": [
         "USB"
       ],
       "/USB1_DN": [
@@ -636,6 +829,12 @@
         "USB"
       ],
       "/USB4_DP": [
+        "USB"
+      ],
+      "/USBUFP_DN": [
+        "USB"
+      ],
+      "/USBUFP_DP": [
         "USB"
       ],
       "/USBUP_DN": [
@@ -775,7 +974,7 @@
         "uuid": "030ac729-ba90-4437-ac4e-e5f9244b6533"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
