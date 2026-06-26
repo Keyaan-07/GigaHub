@@ -10,6 +10,7 @@ R6,Resistor,90.9k,402,100,0.0006,0.06,Yes,100 is MOQ,https://www.lcsc.com/produc
 R7,Resistor,1M,402,100,0.0009,0.09,Yes,100 is MOQ,https://www.lcsc.com/product-detail/C138033.html
 "R8, R9",Resistor,30k,402,100,0.0007,0.07,Yes,100 is MOQ,https://www.lcsc.com/product-detail/C2909347.html
 U1,Hub Controller IC,TUSB8041,QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias,1,4.83,4.83,Yes,,https://www.lcsc.com/product-detail/C544686.html
+"U4, U5, U7, U8",Multiplexer IC,HD3SS3220,QFN-30-1EP,5,1.89,9.44,Yes,,https://www.lcsc.com/product-detail/C165155.html
 "U2, U3",Power switch,TPS2561,VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm_ThermalVias,2,0.8,1.6,Yes,,https://www.lcsc.com/product-detail/C140303.html
 Y1,Crystal,24 MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,10,0.036,0.36,Yes,10 is MOQ,https://www.lcsc.com/product-detail/C41383243.html
 ,,,,Shipping fee JLC,,7.72,,,
