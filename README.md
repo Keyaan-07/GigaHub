@@ -10,7 +10,7 @@ I made this project just for fun and because i had some free time. I could've ma
 ![assembly](/media/assembly.png)  
 ![assembly](/media/assembly-open.png)  
 ![top case](/media/case-top.png)  
-![schematic](/media/usb-hub-schematic.png)  
+![schematic](/media/schematic.png)  
 
 [Onshape link](https://cad.onshape.com/documents/e81256595efe5e6b347fe7a8/w/0dcc8df7d91fb49fe0a745b9/e/4c090b9e2a0ff4ca85e35435)  
 [Kicanvas link](https://kicanvas.org/?github=https://github.com/Keyaan-07/GigaHub/tree/main/hardware)  
